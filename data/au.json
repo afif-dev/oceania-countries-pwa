@@ -1,0 +1,1212 @@
+[
+  {
+    "name": "Sydney",
+    "travel_url": "https://www.australia.com/en-my/places/sydney-and-surrounds/guide-to-sydney.html"
+  },
+  {
+    "name": "Melbourne",
+    "travel_url": "https://www.australia.com/en-my/places/melbourne-and-surrounds/guide-to-melbourne.html"
+  },
+  {
+    "name": "Brisbane",
+    "travel_url": "https://www.australia.com/en-my/places/brisbane-and-surrounds/guide-to-brisbane.html"
+  },
+  {
+    "name": "Perth",
+    "travel_url": "https://www.australia.com/en-my/places/perth-and-surrounds/guide-to-perth.html"
+  },
+  {
+    "name": "Adelaide",
+    "travel_url": "https://www.australia.com/en-my/places/adelaide-and-surrounds/guide-to-adelaide.html"
+  },
+  {
+    "name": "Gold Coast",
+    "travel_url": "https://www.australia.com/en-my/places/gold-coast-and-surrounds/guide-to-the-gold-coast.html"
+  },
+  {
+    "name": "Canberra",
+    "travel_url": "https://www.australia.com/en-my/places/canberra-and-surrounds/guide-to-canberra.html"
+  },
+  {
+    "name": "Newcastle"
+  },
+  {
+    "name": "Wollongong"
+  },
+  {
+    "name": "Logan City"
+  },
+  {
+    "name": "Geelong"
+  },
+  {
+    "name": "Hobart",
+    "travel_url": "https://www.australia.com/en-my/places/hobart-and-surrounds/guide-to-hobart.html"
+  },
+  {
+    "name": "Townsville"
+  },
+  {
+    "name": "Cairns",
+    "travel_url": "https://www.australia.com/en-my/places/cairns-and-surrounds/guide-to-cairns.html"
+  },
+  {
+    "name": "Toowoomba"
+  },
+  {
+    "name": "Darwin",
+    "travel_url": "https://www.australia.com/en-my/places/darwin-and-surrounds/guide-to-darwin.html"
+  },
+  {
+    "name": "Rockingham"
+  },
+  {
+    "name": "Launceston"
+  },
+  {
+    "name": "Bendigo"
+  },
+  {
+    "name": "Ballarat"
+  },
+  {
+    "name": "Mandurah"
+  },
+  {
+    "name": "Mackay"
+  },
+  {
+    "name": "Bundaberg"
+  },
+  {
+    "name": "Bunbury"
+  },
+  {
+    "name": "Maitland"
+  },
+  {
+    "name": "Rockhampton"
+  },
+  {
+    "name": "Adelaide Hills"
+  },
+  {
+    "name": "Melbourne City Centre"
+  },
+  {
+    "name": "Hervey Bay"
+  },
+  {
+    "name": "Reservoir"
+  },
+  {
+    "name": "Craigieburn"
+  },
+  {
+    "name": "Point Cook"
+  },
+  {
+    "name": "Tamworth"
+  },
+  {
+    "name": "Berwick"
+  },
+  {
+    "name": "Blacktown"
+  },
+  {
+    "name": "Pakenham"
+  },
+  {
+    "name": "Port Macquarie"
+  },
+  {
+    "name": "Glen Waverley"
+  },
+  {
+    "name": "Werribee"
+  },
+  {
+    "name": "Dubbo"
+  },
+  {
+    "name": "Castle Hill"
+  },
+  {
+    "name": "Orange"
+  },
+  {
+    "name": "Hoppers Crossing"
+  },
+  {
+    "name": "St Albans"
+  },
+  {
+    "name": "Auburn"
+  },
+  {
+    "name": "Baulkham Hills"
+  },
+  {
+    "name": "Frankston"
+  },
+  {
+    "name": "Sunbury"
+  },
+  {
+    "name": "Saint Albans"
+  },
+  {
+    "name": "Frankston East"
+  },
+  {
+    "name": "Tarneit"
+  },
+  {
+    "name": "Albany"
+  },
+  {
+    "name": "Rowville"
+  },
+  {
+    "name": "Mount Waverley"
+  },
+  {
+    "name": "Bathurst"
+  },
+  {
+    "name": "Southport"
+  },
+  {
+    "name": "Mildura"
+  },
+  {
+    "name": "Epping"
+  },
+  {
+    "name": "Canning Vale"
+  },
+  {
+    "name": "Preston"
+  },
+  {
+    "name": "Bankstown"
+  },
+  {
+    "name": "Shepparton"
+  },
+  {
+    "name": "Surfers Paradise"
+  },
+  {
+    "name": "Noble Park"
+  },
+  {
+    "name": "Randwick"
+  },
+  {
+    "name": "Gladstone"
+  },
+  {
+    "name": "Baldivis"
+  },
+  {
+    "name": "Kwinana"
+  },
+  {
+    "name": "Maroubra"
+  },
+  {
+    "name": "Dandenong"
+  },
+  {
+    "name": "Narre Warren South"
+  },
+  {
+    "name": "Hurstville"
+  },
+  {
+    "name": "Merrylands"
+  },
+  {
+    "name": "Mill Park"
+  },
+  {
+    "name": "Warrnambool"
+  },
+  {
+    "name": "Bundoora"
+  },
+  {
+    "name": "Buderim"
+  },
+  {
+    "name": "Doncaster East"
+  },
+  {
+    "name": "Richmond"
+  },
+  {
+    "name": "Mosman"
+  },
+  {
+    "name": "Kellyville"
+  },
+  {
+    "name": "Liverpool"
+  },
+  {
+    "name": "Bentleigh East"
+  },
+  {
+    "name": "Quakers Hill"
+  },
+  {
+    "name": "Parramatta"
+  },
+  {
+    "name": "Geraldton"
+  },
+  {
+    "name": "Coffs Harbour"
+  },
+  {
+    "name": "Croydon"
+  },
+  {
+    "name": "Narre Warren"
+  },
+  {
+    "name": "Ryde"
+  },
+  {
+    "name": "Caboolture"
+  },
+  {
+    "name": "Marrickville"
+  },
+  {
+    "name": "Ferntree Gully"
+  },
+  {
+    "name": "Coburg"
+  },
+  {
+    "name": "Strathfield"
+  },
+  {
+    "name": "Sydney Central Business District"
+  },
+  {
+    "name": "Keysborough"
+  },
+  {
+    "name": "Hampton Park"
+  },
+  {
+    "name": "South Yarra"
+  },
+  {
+    "name": "Alice Springs"
+  },
+  {
+    "name": "Chatswood"
+  },
+  {
+    "name": "Mount Gambier"
+  },
+  {
+    "name": "Palmerston"
+  },
+  {
+    "name": "Upper Coomera"
+  },
+  {
+    "name": "Glen Iris"
+  },
+  {
+    "name": "Traralgon"
+  },
+  {
+    "name": "Kew"
+  },
+  {
+    "name": "Campsie"
+  },
+  {
+    "name": "Greenacre"
+  },
+  {
+    "name": "Brunswick"
+  },
+  {
+    "name": "Carlingford"
+  },
+  {
+    "name": "Endeavour Hills"
+  },
+  {
+    "name": "Northcote"
+  },
+  {
+    "name": "Caroline Springs"
+  },
+  {
+    "name": "South Morang"
+  },
+  {
+    "name": "Ashfield"
+  },
+  {
+    "name": "Armidale"
+  },
+  {
+    "name": "Epping"
+  },
+  {
+    "name": "Mornington"
+  },
+  {
+    "name": "Robina"
+  },
+  {
+    "name": "Wyndham Vale"
+  },
+  {
+    "name": "Hawthorn"
+  },
+  {
+    "name": "Dianella"
+  },
+  {
+    "name": "Granville"
+  },
+  {
+    "name": "Glenmore Park"
+  },
+  {
+    "name": "Morphett Vale"
+  },
+  {
+    "name": "Mount Isa"
+  },
+  {
+    "name": "Thornlie"
+  },
+  {
+    "name": "Brighton"
+  },
+  {
+    "name": "Goulburn"
+  },
+  {
+    "name": "Greystanes"
+  },
+  {
+    "name": "Forest Lake"
+  },
+  {
+    "name": "Lalor"
+  },
+  {
+    "name": "Southbank"
+  },
+  {
+    "name": "Hornsby"
+  },
+  {
+    "name": "Dandenong North"
+  },
+  {
+    "name": "Ellenbrook"
+  },
+  {
+    "name": "Langwarrin"
+  },
+  {
+    "name": "Glenroy"
+  },
+  {
+    "name": "Busselton"
+  },
+  {
+    "name": "Boronia"
+  },
+  {
+    "name": "Cheltenham"
+  },
+  {
+    "name": "Camberwell"
+  },
+  {
+    "name": "Roxburgh Park"
+  },
+  {
+    "name": "Cabramatta"
+  },
+  {
+    "name": "Springvale"
+  },
+  {
+    "name": "Mooroolbark"
+  },
+  {
+    "name": "Malvern East"
+  },
+  {
+    "name": "North Lakes"
+  },
+  {
+    "name": "Morayfield"
+  },
+  {
+    "name": "Glenferrie"
+  },
+  {
+    "name": "Hawthorn South"
+  },
+  {
+    "name": "Dee Why"
+  },
+  {
+    "name": "Morley"
+  },
+  {
+    "name": "Kirwan"
+  },
+  {
+    "name": "Doreen"
+  },
+  {
+    "name": "Doncaster"
+  },
+  {
+    "name": "Truganina"
+  },
+  {
+    "name": "Carrum Downs"
+  },
+  {
+    "name": "Thomastown"
+  },
+  {
+    "name": "Saint Kilda"
+  },
+  {
+    "name": "Greensborough"
+  },
+  {
+    "name": "Essendon"
+  },
+  {
+    "name": "Kallangur"
+  },
+  {
+    "name": "Punchbowl"
+  },
+  {
+    "name": "Clayton"
+  },
+  {
+    "name": "Balwyn North"
+  },
+  {
+    "name": "Gawler"
+  },
+  {
+    "name": "Burnie"
+  },
+  {
+    "name": "Gosnells"
+  },
+  {
+    "name": "Cranbourne North"
+  },
+  {
+    "name": "St Clair"
+  },
+  {
+    "name": "Cranbourne"
+  },
+  {
+    "name": "Adelaide city centre"
+  },
+  {
+    "name": "Lidcombe"
+  },
+  {
+    "name": "Bexley"
+  },
+  {
+    "name": "Deception Bay"
+  },
+  {
+    "name": "Wheelers Hill"
+  },
+  {
+    "name": "Seven Hills"
+  },
+  {
+    "name": "Wollongong city centre"
+  },
+  {
+    "name": "Redbank Plains"
+  },
+  {
+    "name": "Wantirna South"
+  },
+  {
+    "name": "Altona Meadows"
+  },
+  {
+    "name": "Carlton"
+  },
+  {
+    "name": "Cherrybrook"
+  },
+  {
+    "name": "Wodonga"
+  },
+  {
+    "name": "Sunshine West"
+  },
+  {
+    "name": "Ballajura"
+  },
+  {
+    "name": "Highton"
+  },
+  {
+    "name": "Maroochydore"
+  },
+  {
+    "name": "Labrador"
+  },
+  {
+    "name": "Thornbury"
+  },
+  {
+    "name": "Narangba"
+  },
+  {
+    "name": "Griffith"
+  },
+  {
+    "name": "Broken Hill"
+  },
+  {
+    "name": "Deer Park"
+  },
+  {
+    "name": "Fairfield"
+  },
+  {
+    "name": "Yagoona"
+  },
+  {
+    "name": "Wangaratta"
+  },
+  {
+    "name": "Willetton"
+  },
+  {
+    "name": "Sunnybank Hills"
+  },
+  {
+    "name": "Westmead"
+  },
+  {
+    "name": "Eltham"
+  },
+  {
+    "name": "Frankston South"
+  },
+  {
+    "name": "Eastwood"
+  },
+  {
+    "name": "Mount Martha"
+  },
+  {
+    "name": "Cronulla"
+  },
+  {
+    "name": "Wahroonga"
+  },
+  {
+    "name": "Mulgrave"
+  },
+  {
+    "name": "Earlwood"
+  },
+  {
+    "name": "Melton West"
+  },
+  {
+    "name": "Mount Eliza"
+  },
+  {
+    "name": "Ringwood"
+  },
+  {
+    "name": "Engadine"
+  },
+  {
+    "name": "Carnegie"
+  },
+  {
+    "name": "Saint Ives"
+  },
+  {
+    "name": "Capalaba"
+  },
+  {
+    "name": "Hillside"
+  },
+  {
+    "name": "Calamvale"
+  },
+  {
+    "name": "Lakemba"
+  },
+  {
+    "name": "Parafield Gardens"
+  },
+  {
+    "name": "Pascoe Vale"
+  },
+  {
+    "name": "Helensvale"
+  },
+  {
+    "name": "Nerang"
+  },
+  {
+    "name": "Bracken Ridge"
+  },
+  {
+    "name": "Mount Druitt"
+  },
+  {
+    "name": "Pacific Pines"
+  },
+  {
+    "name": "Footscray"
+  },
+  {
+    "name": "Surry Hills"
+  },
+  {
+    "name": "Umina Beach"
+  },
+  {
+    "name": "Paralowie"
+  },
+  {
+    "name": "The Gap"
+  },
+  {
+    "name": "Mernda"
+  },
+  {
+    "name": "Taree"
+  },
+  {
+    "name": "Templestowe"
+  },
+  {
+    "name": "Lilydale"
+  },
+  {
+    "name": "Manly"
+  },
+  {
+    "name": "West Pennant Hills"
+  },
+  {
+    "name": "Seaford"
+  },
+  {
+    "name": "Alexandra Hills"
+  },
+  {
+    "name": "Glenwood"
+  },
+  {
+    "name": "Cranbourne East"
+  },
+  {
+    "name": "Mascot"
+  },
+  {
+    "name": "Coorparoo"
+  },
+  {
+    "name": "Burwood"
+  },
+  {
+    "name": "Lara"
+  },
+  {
+    "name": "Bentleigh"
+  },
+  {
+    "name": "Banora Point"
+  },
+  {
+    "name": "Mitcham"
+  },
+  {
+    "name": "Port Melbourne"
+  },
+  {
+    "name": "Kogarah"
+  },
+  {
+    "name": "Casula"
+  },
+  {
+    "name": "Cranebrook"
+  },
+  {
+    "name": "Brighton East"
+  },
+  {
+    "name": "Albany Creek"
+  },
+  {
+    "name": "Maryborough"
+  },
+  {
+    "name": "Rockdale"
+  },
+  {
+    "name": "Taylors Lakes"
+  },
+  {
+    "name": "Carindale"
+  },
+  {
+    "name": "Bairnsdale"
+  },
+  {
+    "name": "North Melbourne"
+  },
+  {
+    "name": "Eight Mile Plains"
+  },
+  {
+    "name": "Kingsford"
+  },
+  {
+    "name": "Greenvale"
+  },
+  {
+    "name": "Coogee"
+  },
+  {
+    "name": "Prestons"
+  },
+  {
+    "name": "Warragul"
+  },
+  {
+    "name": "Scarborough"
+  },
+  {
+    "name": "Corio"
+  },
+  {
+    "name": "Palm Beach"
+  },
+  {
+    "name": "Elwood"
+  },
+  {
+    "name": "Miranda"
+  },
+  {
+    "name": "Springfield Lakes"
+  },
+  {
+    "name": "Cessnock"
+  },
+  {
+    "name": "Rochedale South"
+  },
+  {
+    "name": "Kensington"
+  },
+  {
+    "name": "Ingleburn"
+  },
+  {
+    "name": "Duncraig"
+  },
+  {
+    "name": "Cranbourne West"
+  },
+  {
+    "name": "Caulfield North"
+  },
+  {
+    "name": "Burwood"
+  },
+  {
+    "name": "Inala"
+  },
+  {
+    "name": "Rooty Hill"
+  },
+  {
+    "name": "Newtown"
+  },
+  {
+    "name": "Taylors Hill"
+  },
+  {
+    "name": "Meadow Heights"
+  },
+  {
+    "name": "Varsity Lakes"
+  },
+  {
+    "name": "Yarraville"
+  },
+  {
+    "name": "Victoria Point"
+  },
+  {
+    "name": "Redland Bay"
+  },
+  {
+    "name": "Ascot Vale"
+  },
+  {
+    "name": "Byford"
+  },
+  {
+    "name": "Cleveland"
+  },
+  {
+    "name": "Kambah"
+  },
+  {
+    "name": "Emerald"
+  },
+  {
+    "name": "Perth city centre"
+  },
+  {
+    "name": "Murray Bridge"
+  },
+  {
+    "name": "Bossley Park"
+  },
+  {
+    "name": "Thornlands"
+  },
+  {
+    "name": "Runcorn"
+  },
+  {
+    "name": "Leichhardt"
+  },
+  {
+    "name": "Concord"
+  },
+  {
+    "name": "Keilor East"
+  },
+  {
+    "name": "West Wodonga"
+  },
+  {
+    "name": "Bayswater"
+  },
+  {
+    "name": "Horsham"
+  },
+  {
+    "name": "Toongabbie"
+  },
+  {
+    "name": "Birkdale"
+  },
+  {
+    "name": "Ormeau"
+  },
+  {
+    "name": "Burleigh Waters"
+  },
+  {
+    "name": "Hawthorn East"
+  },
+  {
+    "name": "Revesby"
+  },
+  {
+    "name": "Moonee Ponds"
+  },
+  {
+    "name": "Rockingham city centre"
+  },
+  {
+    "name": "Fawkner"
+  },
+  {
+    "name": "Wantirna"
+  },
+  {
+    "name": "Como"
+  },
+  {
+    "name": "Australind"
+  },
+  {
+    "name": "Echuca"
+  },
+  {
+    "name": "Marsden"
+  },
+  {
+    "name": "Grovedale"
+  },
+  {
+    "name": "Brunswick West"
+  },
+  {
+    "name": "Williamstown"
+  },
+  {
+    "name": "Port Lincoln"
+  },
+  {
+    "name": "Burpengary"
+  },
+  {
+    "name": "Belmont"
+  },
+  {
+    "name": "Blackburn"
+  },
+  {
+    "name": "Macquarie Fields"
+  },
+  {
+    "name": "Forster"
+  },
+  {
+    "name": "Morwell"
+  },
+  {
+    "name": "Mount Barker"
+  },
+  {
+    "name": "Pyrmont"
+  },
+  {
+    "name": "Dulwich Hill"
+  },
+  {
+    "name": "Ocean Grove"
+  },
+  {
+    "name": "Mudgeeraba"
+  },
+  {
+    "name": "Sale"
+  },
+  {
+    "name": "Armadale"
+  },
+  {
+    "name": "North Parramatta"
+  },
+  {
+    "name": "Devonport"
+  },
+  {
+    "name": "Doonside"
+  },
+  {
+    "name": "Penrith"
+  },
+  {
+    "name": "Yeppoon"
+  },
+  {
+    "name": "Frenchs Forest"
+  },
+  {
+    "name": "West Ryde"
+  },
+  {
+    "name": "Surrey Hills"
+  },
+  {
+    "name": "Port Kennedy"
+  },
+  {
+    "name": "Templestowe Lower"
+  },
+  {
+    "name": "Padstow"
+  },
+  {
+    "name": "Mawson Lakes"
+  },
+  {
+    "name": "Marsfield"
+  },
+  {
+    "name": "Port Pirie"
+  },
+  {
+    "name": "Eagleby"
+  },
+  {
+    "name": "Campbelltown"
+  },
+  {
+    "name": "Coomera"
+  },
+  {
+    "name": "Halls Head"
+  },
+  {
+    "name": "Redfern"
+  },
+  {
+    "name": "Albion Park"
+  },
+  {
+    "name": "Butler"
+  },
+  {
+    "name": "Prospect"
+  },
+  {
+    "name": "St Kilda East"
+  },
+  {
+    "name": "Jimboomba"
+  },
+  {
+    "name": "Beaumaris"
+  },
+  {
+    "name": "Balwyn"
+  },
+  {
+    "name": "Rosebud"
+  },
+  {
+    "name": "Torquay"
+  },
+  {
+    "name": "Prahran"
+  },
+  {
+    "name": "Kingsley"
+  },
+  {
+    "name": "Goonellabah"
+  },
+  {
+    "name": "Chester Hill"
+  },
+  {
+    "name": "Newport"
+  },
+  {
+    "name": "Ashgrove"
+  },
+  {
+    "name": "Paddington"
+  },
+  {
+    "name": "Penshurst"
+  },
+  {
+    "name": "Springvale South"
+  },
+  {
+    "name": "Dalby"
+  },
+  {
+    "name": "Wynnum"
+  },
+  {
+    "name": "Mentone"
+  },
+  {
+    "name": "Raymond Terrace"
+  },
+  {
+    "name": "Clarkson"
+  },
+  {
+    "name": "Belmore"
+  },
+  {
+    "name": "Clayton South"
+  },
+  {
+    "name": "Toorak"
+  },
+  {
+    "name": "Docklands"
+  },
+  {
+    "name": "Green Valley"
+  },
+  {
+    "name": "Hampton"
+  },
+  {
+    "name": "Forrestfield"
+  },
+  {
+    "name": "Minto"
+  },
+  {
+    "name": "Balga"
+  },
+  {
+    "name": "Woodridge"
+  },
+  {
+    "name": "Kingsgrove"
+  },
+  {
+    "name": "Leopold"
+  },
+  {
+    "name": "Panania"
+  },
+  {
+    "name": "Wallsend"
+  },
+  {
+    "name": "Lavington"
+  },
+  {
+    "name": "Newman"
+  },
+  {
+    "name": "New Farm"
+  },
+  {
+    "name": "Warwick"
+  },
+  {
+    "name": "Ivanhoe"
+  },
+  {
+    "name": "Potts Point"
+  },
+  {
+    "name": "Muswellbrook"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "oceania",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "afif-dev - https://afif-dev.github.io/",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}

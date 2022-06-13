@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Auckland",
+    "travel_url": "https://www.newzealand.com/int/auckland/"
+  },
+  {
+    "name": "Wellington",
+    "travel_url": "https://www.newzealand.com/int/wellington/"
+  },
+  {
+    "name": "Christchurch",
+    "travel_url": "https://www.newzealand.com/int/christchurch/"
+  },
+  {
+    "name": "Manukau City"
+  },
+  {
+    "name": "North Shore"
+  },
+  {
+    "name": "Hamilton",
+    "travel_url": "https://www.newzealand.com/int/hamilton/"
+  },
+  {
+    "name": "Dunedin",
+    "travel_url": "https://www.newzealand.com/int/dunedin-coastal-otago/"
+  },
+  {
+    "name": "Tauranga",
+    "travel_url": "https://www.newzealand.com/int/tauranga/"
+  },
+  {
+    "name": "Lower Hutt"
+  },
+  {
+    "name": "Hastings"
+  },
+  {
+    "name": "Palmerston North"
+  },
+  {
+    "name": "Rotorua",
+    "travel_url": "https://www.newzealand.com/int/rotorua/"
+  },
+  {
+    "name": "Porirua"
+  },
+  {
+    "name": "Nelson",
+    "travel_url": "https://www.newzealand.com/int/nelson-tasman/"
+  },
+  {
+    "name": "Napier"
+  },
+  {
+    "name": "Whangarei"
+  },
+  {
+    "name": "New Plymouth"
+  },
+  {
+    "name": "Whanganui",
+    "travel_url": "https://www.newzealand.com/int/whanganui/"
+  },
+  {
+    "name": "Upper Hutt"
+  },
+  {
+    "name": "Invercargill"
+  },
+  {
+    "name": "Papatoetoe"
+  },
+  {
+    "name": "Gisborne"
+  },
+  {
+    "name": "Paraparaumu"
+  },
+  {
+    "name": "Timaru"
+  },
+  {
+    "name": "Masterton"
+  },
+  {
+    "name": "Blenheim"
+  },
+  {
+    "name": "Taupo",
+    "travel_url": "https://www.newzealand.com/int/taupo/"
+  },
+  {
+    "name": "Remuera"
+  },
+  {
+    "name": "Otara"
+  },
+  {
+    "name": "Papakura"
+  },
+  {
+    "name": "Pukekohe East"
+  },
+  {
+    "name": "Mangere"
+  },
+  {
+    "name": "Ashburton"
+  },
+  {
+    "name": "New Lynn"
+  },
+  {
+    "name": "Avondale"
+  },
+  {
+    "name": "Levin"
+  },
+  {
+    "name": "Stoke"
+  },
+  {
+    "name": "Wainuiomata"
+  },
+  {
+    "name": "Manurewa"
+  },
+  {
+    "name": "Whakatane"
+  },
+  {
+    "name": "Rangiora"
+  },
+  {
+    "name": "Taradale"
+  },
+  {
+    "name": "Karori"
+  },
+  {
+    "name": "Cambridge"
+  },
+  {
+    "name": "Otahuhu"
+  },
+  {
+    "name": "Tokoroa"
+  },
+  {
+    "name": "Richmond"
+  },
+  {
+    "name": "Waikanae"
+  },
+  {
+    "name": "Kaiapoi"
+  },
+  {
+    "name": "Gore"
+  },
+  {
+    "name": "Oamaru"
+  },
+  {
+    "name": "Takanini"
+  },
+  {
+    "name": "Homai"
+  },
+  {
+    "name": "Wigram"
+  },
+  {
+    "name": "Howick"
+  },
+  {
+    "name": "Queenstown",
+    "travel_url": "https://www.newzealand.com/int/queenstown/"
+  },
+  {
+    "name": "Orewa"
+  },
+  {
+    "name": "Hawera"
+  },
+  {
+    "name": "Carterton"
+  },
+  {
+    "name": "Forrest Hill"
+  },
+  {
+    "name": "Albany"
+  },
+  {
+    "name": "Favona"
+  },
+  {
+    "name": "Halswell"
+  },
+  {
+    "name": "Spreydon"
+  },
+  {
+    "name": "Greymouth"
+  },
+  {
+    "name": "Waiuku"
+  },
+  {
+    "name": "Lincoln"
+  },
+  {
+    "name": "Khandallah"
+  },
+  {
+    "name": "Bethlehem"
+  },
+  {
+    "name": "Takapuna"
+  },
+  {
+    "name": "Kerikeri"
+  },
+  {
+    "name": "Otumoetai"
+  },
+  {
+    "name": "Ngaruawahia"
+  },
+  {
+    "name": "Pakuranga"
+  },
+  {
+    "name": "Kawerau"
+  },
+  {
+    "name": "Parnell"
+  },
+  {
+    "name": "Motueka"
+  },
+  {
+    "name": "Waitara"
+  },
+  {
+    "name": "Kelvin Grove"
+  },
+  {
+    "name": "Thames"
+  },
+  {
+    "name": "Bell Block"
+  },
+  {
+    "name": "Titahi Bay"
+  },
+  {
+    "name": "Petone"
+  },
+  {
+    "name": "Papatowai"
+  },
+  {
+    "name": "Onekawa"
+  },
+  {
+    "name": "Onerahi"
+  },
+  {
+    "name": "Warkworth"
+  },
+  {
+    "name": "Whitianga"
+  },
+  {
+    "name": "Matamata"
+  },
+  {
+    "name": "Beachlands"
+  },
+  {
+    "name": "New Brighton"
+  },
+  {
+    "name": "Stratford"
+  },
+  {
+    "name": "Otaki"
+  },
+  {
+    "name": "Ngaio"
+  },
+  {
+    "name": "Dannevirke"
+  },
+  {
+    "name": "Katikati"
+  },
+  {
+    "name": "Waikowhai"
+  },
+  {
+    "name": "Raumati Beach"
+  },
+  {
+    "name": "Ngongotaha"
+  },
+  {
+    "name": "Cromwell"
+  },
+  {
+    "name": "Pokeno"
+  },
+  {
+    "name": "Prebbleton"
+  },
+  {
+    "name": "Rothesay Bay"
+  },
+  {
+    "name": "Dargaville"
+  },
+  {
+    "name": "Mount Victoria"
+  },
+  {
+    "name": "Dairy Flat"
+  },
+  {
+    "name": "Picton"
+  },
+  {
+    "name": "Foxton"
+  },
+  {
+    "name": "Waihi"
+  },
+  {
+    "name": "Fendalton"
+  },
+  {
+    "name": "Rosebank"
+  },
+  {
+    "name": "Belfast"
+  },
+  {
+    "name": "Murrays Bay"
+  },
+  {
+    "name": "Whangamata"
+  },
+  {
+    "name": "Balclutha"
+  },
+  {
+    "name": "Wanaka",
+    "travel_url": "https://www.newzealand.com/int/lake-wanaka/"
+  },
+  {
+    "name": "Mission Bay"
+  },
+  {
+    "name": "Westport"
+  },
+  {
+    "name": "Tamaki"
+  },
+  {
+    "name": "Wairoa"
+  },
+  {
+    "name": "Moturoa"
+  },
+  {
+    "name": "Greerton"
+  },
+  {
+    "name": "Opotiki"
+  },
+  {
+    "name": "Paeroa"
+  },
+  {
+    "name": "Newmarket"
+  },
+  {
+    "name": "Brooklyn"
+  },
+  {
+    "name": "Pegasus"
+  },
+  {
+    "name": "Oratia"
+  },
+  {
+    "name": "Inglewood"
+  },
+  {
+    "name": "Turangi"
+  },
+  {
+    "name": "Wiri"
+  },
+  {
+    "name": "Snells Beach"
+  },
+  {
+    "name": "Tinwald"
+  },
+  {
+    "name": "Frankton"
+  },
+  {
+    "name": "Raglan"
+  },
+  {
+    "name": "Kelburn"
+  },
+  {
+    "name": "Silverstream"
+  },
+  {
+    "name": "Waimate"
+  },
+  {
+    "name": "Riverhead"
+  },
+  {
+    "name": "Leigh"
+  },
+  {
+    "name": "Fitzroy"
+  },
+  {
+    "name": "Kumeu"
+  },
+  {
+    "name": "Paremoremo"
+  },
+  {
+    "name": "Titirangi"
+  },
+  {
+    "name": "Mornington"
+  },
+  {
+    "name": "Ashhurst"
+  },
+  {
+    "name": "Helensville"
+  },
+  {
+    "name": "Omokoroa"
+  },
+  {
+    "name": "Kihikihi"
+  },
+  {
+    "name": "Woodend"
+  },
+  {
+    "name": "Rolleston"
+  },
+  {
+    "name": "Belmont"
+  },
+  {
+    "name": "Whitford"
+  },
+  {
+    "name": "Port Chalmers"
+  },
+  {
+    "name": "Darfield"
+  },
+  {
+    "name": "Atawhai"
+  },
+  {
+    "name": "Te Anau"
+  },
+  {
+    "name": "Hokitika"
+  },
+  {
+    "name": "Campbells Bay"
+  },
+  {
+    "name": "Opaheke"
+  },
+  {
+    "name": "Ruakaka"
+  },
+  {
+    "name": "Tahunanui"
+  },
+  {
+    "name": "Pahiatua"
+  },
+  {
+    "name": "Eastbourne"
+  },
+  {
+    "name": "Waimate North"
+  },
+  {
+    "name": "Waihi Beach"
+  },
+  {
+    "name": "Waipu"
+  },
+  {
+    "name": "Otorohanga"
+  },
+  {
+    "name": "Wakefield"
+  },
+  {
+    "name": "Renwick"
+  },
+  {
+    "name": "Paremata"
+  },
+  {
+    "name": "Wallaceville"
+  },
+  {
+    "name": "Red Hill"
+  },
+  {
+    "name": "Heretaunga"
+  },
+  {
+    "name": "Otatara"
+  },
+  {
+    "name": "West Melton"
+  },
+  {
+    "name": "Oropi"
+  },
+  {
+    "name": "Waikiwi"
+  },
+  {
+    "name": "Kaukapakapa"
+  },
+  {
+    "name": "Clive"
+  },
+  {
+    "name": "Ruawai"
+  },
+  {
+    "name": "East Taieri"
+  },
+  {
+    "name": "Oxford"
+  },
+  {
+    "name": "Leeston"
+  },
+  {
+    "name": "Loburn"
+  },
+  {
+    "name": "Amberley"
+  },
+  {
+    "name": "Geraldine"
+  },
+  {
+    "name": "Awakeri"
+  },
+  {
+    "name": "Silverdale"
+  },
+  {
+    "name": "Brightwater"
+  },
+  {
+    "name": "Bulls"
+  },
+  {
+    "name": "Bay View"
+  },
+  {
+    "name": "Taupiri"
+  },
+  {
+    "name": "Plimmerton"
+  },
+  {
+    "name": "Winton"
+  },
+  {
+    "name": "Arrowtown"
+  },
+  {
+    "name": "Foxton Beach"
+  },
+  {
+    "name": "Wairau Valley"
+  },
+  {
+    "name": "Waiatarua"
+  },
+  {
+    "name": "Redcliffs"
+  },
+  {
+    "name": "Pukerua Bay"
+  },
+  {
+    "name": "Eltham"
+  },
+  {
+    "name": "Rahotu"
+  },
+  {
+    "name": "Milton"
+  },
+  {
+    "name": "Mangorei"
+  },
+  {
+    "name": "Wellsford"
+  },
+  {
+    "name": "Ramarama"
+  },
+  {
+    "name": "Bluff"
+  },
+  {
+    "name": "Waitakere"
+  },
+  {
+    "name": "Methven"
+  },
+  {
+    "name": "Ostend"
+  },
+  {
+    "name": "Mangatainoka"
+  },
+  {
+    "name": "Waipawa"
+  },
+  {
+    "name": "Ladbrooks"
+  },
+  {
+    "name": "Murupara"
+  },
+  {
+    "name": "Moerewa"
+  },
+  {
+    "name": "Paekakariki"
+  },
+  {
+    "name": "Rangiriri"
+  },
+  {
+    "name": "Mapua"
+  },
+  {
+    "name": "Tangiteroria"
+  },
+  {
+    "name": "Edgecumbe"
+  },
+  {
+    "name": "Templeton"
+  },
+  {
+    "name": "Clifton"
+  },
+  {
+    "name": "Maramarua"
+  },
+  {
+    "name": "Mataura"
+  },
+  {
+    "name": "Taipa"
+  },
+  {
+    "name": "Wainui"
+  },
+  {
+    "name": "Oakura"
+  },
+  {
+    "name": "Castlepoint"
+  },
+  {
+    "name": "Paihia",
+    "travel_url": "https://www.newzealand.com/int/paihia/"
+  },
+  {
+    "name": "Twizel"
+  },
+  {
+    "name": "Acacia Bay"
+  },
+  {
+    "name": "Whakarongo"
+  },
+  {
+    "name": "Waikawa"
+  },
+  {
+    "name": "Kaharoa"
+  },
+  {
+    "name": "Te Kauwhata"
+  },
+  {
+    "name": "Kawakawa"
+  },
+  {
+    "name": "Tairua"
+  },
+  {
+    "name": "Rakaia"
+  },
+  {
+    "name": "Ealing"
+  },
+  {
+    "name": "West Eyreton"
+  },
+  {
+    "name": "Tiniroto"
+  },
+  {
+    "name": "Waharoa"
+  },
+  {
+    "name": "Clevedon"
+  },
+  {
+    "name": "Coromandel"
+  },
+  {
+    "name": "Taneatua"
+  },
+  {
+    "name": "Opunake"
+  },
+  {
+    "name": "Colville"
+  },
+  {
+    "name": "Pleasant Point"
+  },
+  {
+    "name": "Oneroa"
+  },
+  {
+    "name": "Riverton"
+  },
+  {
+    "name": "Whangarei Heads"
+  },
+  {
+    "name": "Hicks Bay"
+  },
+  {
+    "name": "Takaka"
+  },
+  {
+    "name": "Ngunguru"
+  },
+  {
+    "name": "Arthurs Point"
+  },
+  {
+    "name": "Pirongia"
+  },
+  {
+    "name": "Patea"
+  },
+  {
+    "name": "Maungaturoto"
+  },
+  {
+    "name": "Muriwai Beach"
+  },
+  {
+    "name": "Burnham"
+  },
+  {
+    "name": "Rawene"
+  },
+  {
+    "name": "Rapaura"
+  },
+  {
+    "name": "Weston"
+  },
+  {
+    "name": "Drury"
+  },
+  {
+    "name": "Maketu"
+  },
+  {
+    "name": "Raupunga"
+  },
+  {
+    "name": "Temple View"
+  },
+  {
+    "name": "Waitoa"
+  },
+  {
+    "name": "Haumoana"
+  },
+  {
+    "name": "Jerusalem"
+  },
+  {
+    "name": "Portobello"
+  },
+  {
+    "name": "Ngatea"
+  },
+  {
+    "name": "Washdyke"
+  },
+  {
+    "name": "Opua"
+  },
+  {
+    "name": "Manutuke"
+  },
+  {
+    "name": "Hanmer Springs"
+  },
+  {
+    "name": "Parakai"
+  },
+  {
+    "name": "Ahipara"
+  },
+  {
+    "name": "Kennedys Bush"
+  },
+  {
+    "name": "Judgeford"
+  },
+  {
+    "name": "Ohinemutu"
+  },
+  {
+    "name": "Hamurana"
+  },
+  {
+    "name": "Normanby"
+  },
+  {
+    "name": "Palmerston"
+  },
+  {
+    "name": "Kopuaranga"
+  },
+  {
+    "name": "Pauatahanui"
+  },
+  {
+    "name": "Maungatapere"
+  },
+  {
+    "name": "Pauanui"
+  }
+]

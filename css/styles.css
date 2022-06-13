@@ -1,0 +1,41 @@
+header .uk-navbar .uk-navbar-nav a {
+  color: #addcff;
+  background: linear-gradient(0deg, rgba(2, 102, 203, 0.1), #013b87) no-repeat right top / var(--bg-h) 0;
+  transition: background-size 350ms;
+  --bg-h: 100%;
+}
+
+header .uk-navbar .uk-navbar-nav a:hover {
+  color: #fff;
+  background-size: 100% var(--bg-h);
+  background-position-y: bottom;
+}
+
+.uk-button {
+  transition: all 0.35s ease;
+}
+
+.data-lists .uk-card {
+  border: 1px #addcff solid;
+}
+
+.data-lists .uk-card .uk-card-body {
+  font-size: 14px;
+}
+
+.data-lists .uk-card .uk-button-default {
+  border: 1px solid #addcff;
+}
+
+.data-lists .uk-card .uk-button-default:hover {
+  background-color: #addcff;
+}
+
+.footer {
+  color: #addcff;
+  background-color: #023e8a;
+}
+
+.footer a {
+  color: #addcff;
+}

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Oceania Countries</title>
+
+    <!-- Meta Tags required for Progressive Web App -->
+    <meta name="apple-mobile-web-app-status-bar" content="#1e87f0">
+    <meta name="theme-color" content="#1e87f0">
+
+    <!-- Manifest File link for Progressive Web App -->
+    <link rel="manifest" href="manifest.json">
+
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <link rel="stylesheet" href="css/flags32-both.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons.min.js"></script>
+</head>
+
+<body>
+
+    <!-- header -->
+    <header>
+        <div uk-sticky="media: 640" class="uk-background-primary uk-light uk-margin-large-bottom uk-sticky">
+            <div class="uk-container uk-container-expand">
+                <nav class="uk-navbar">
+                    <div class="uk-navbar-left"><a href="./" class="uk-navbar-item uk-logo">Oceania
+                        </a></div>
+                    <div class="uk-navbar-right">
+                        <ul class="uk-navbar-nav uk-visible@m">
+                            <li class="uk-active"><a href="./">Home</a></li>
+                            <li><a href="./maps.html">Maps</a></li>
+                            <li><a href="./australia.html">Australia</a></li>
+                            <li><a href="./new-zealand.html">New Zealand</a></li>
+                        </ul>
+                        <a uk-navbar-toggle-icon="" href="#offcanvas" uk-toggle="" class="uk-navbar-toggle uk-hidden@m uk-icon uk-navbar-toggle-icon" aria-expanded="false">
+                            <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                <rect y="9" width="20" height="2"></rect>
+                                <rect y="3" width="20" height="2"></rect>
+                                <rect y="15" width="20" height="2"></rect>
+                            </svg>
+                        </a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- mobile nav -->
+        <div id="offcanvas" uk-offcanvas="mode: push; overlay: true">
+            <div class="uk-offcanvas-bar">
+                <button class="uk-offcanvas-close" type="button" uk-close></button>
+                <h3>Menu</h3>
+                <p><a href="./" class="uk-button uk-button-text">Home</a></p>
+                <p><a href="./maps.html" class="uk-button uk-button-text">Maps</a></p>
+                <p><a href="./australia.html" class="uk-button uk-button-text">Australia</a></p>
+                <p><a href="./new-zealand.html" class="uk-button uk-button-text">New Zealand</a></p>
+            </div>
+        </div>
+    </header>
+
+    <!-- content -->
+    <div class="uk-section-small uk-padding-remove-vertical">
+        <div class="uk-container uk-container-xlarge">
+            <div class="uk-margin-large-bottom">
+                <h2 class="uk-heading-small">Oceania Countries</h2>
+                <p class="uk-text-default">Oceania is a geographical region that includes Australasia, Melanesia, Micronesia, and Polynesia. Spanning the Eastern and Western hemispheres, Oceania is estimated to have a land area of
+                    8,525,989 square kilometres and a population of over 41 million. Australia and New Zealand are two of the largest countries on the continent, with populations of 24.7 million and 4.7 million, respectively.
+                    However, the island nation of Papua New Guinea is actually more populous than New Zealand, with 8.4 million inhabitants.</p>
+            </div>
+            <div id="country-lists" class="data-lists uk-grid-small uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l" uk-grid uk-height-match="target: > div > .uk-card"
+                uk-scrollspy="target: > div; cls: uk-animation-slide-bottom-small; delay: 100">
+                <div>
+                    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="min-height: 280; max-height: 280; animation: pull; autoplay-interval: 3000; autoplay: true">
+                        <ul class="uk-slideshow-items">
+                            <li>
+                                <img src="img/hs-1.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-2.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-3.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-4.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-5.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-6.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-7.jpg" alt="" uk-cover>
+                            </li>
+                            <li>
+                                <img src="img/hs-8.jpg" alt="" uk-cover>
+                            </li>
+                        </ul>
+                        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+                        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- to top -->
+    <div class="uk-position-fixed uk-position-z-index uk-position-bottom-right">
+        <a href="#" class="uk-padding" uk-totop uk-scroll></a>
+    </div>
+
+    <!-- modal -->
+    <div id="country-modal-full" class="uk-modal-full" uk-modal>
+        <div class="uk-modal-dialog">
+            <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+            <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+                <div class="uk-background-cover" style="background-image: url('img/mp-1.jpg');" uk-height-viewport></div>
+                <div class="uk-padding-large modal-content f32"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- footer -->
+    <footer class="footer uk-margin-xlarge-top uk-padding">
+        <div class="uk-container uk-text-center uk-text-small">
+            <span>&copy; Build with ❤ by <span uk-icon="github"></span> <a href="https://github.com/afif-dev" target="_blank">afif-dev</a>
+                | deploy by <a href="https://vercel.com/?utm_source=github.com/afif-dev" target="_blank">Vercel</a>
+            </span>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
