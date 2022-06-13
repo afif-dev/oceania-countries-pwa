@@ -16,6 +16,9 @@ npm install
 npm run dev
 ```
 
+## Screenshot
+![](/oceania-countries-pwa-ss.png)
+
 ## Reference Links
 
 - https://getuikit.com/
