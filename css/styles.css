@@ -10,7 +10,9 @@ header .uk-navbar .uk-navbar-nav a:hover {
   background-size: 100% var(--bg-h);
   background-position-y: bottom;
 }
-
+.uk-modal-full {
+  min-height: 100vh;
+}
 .uk-button {
   transition: all 0.35s ease;
 }
