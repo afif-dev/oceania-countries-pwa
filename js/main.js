@@ -48,12 +48,12 @@ async function viewCountryList() {
       <p>Capital City: ${selected_data.capital}</p>
       <p>Flag: <span class="uk-text-middle flag ${selected_data.code.toLowerCase()}"></span></p>
       <p>ISO Code: ${selected_data.code}</p>
-      <p>
-        <a href="${selected_data.map_url}" target="_blank" class="uk-button uk-button-danger"><span uk-icon="location" ratio="0.75"></span> Maps</a> ` +
-        (selected_data.gov_url != "" ? `<a href="${selected_data.gov_url}" target="_blank" class="uk-button uk-button-primary"><span uk-icon="home" ratio="0.75"></span> Gov site</a>` : ``) +
+      <p uk-margin>
+        <a href="${selected_data.map_url}" target="_blank" class="uk-button uk-button-danger uk-width-auto@s uk-width-1-1"><span uk-icon="location" ratio="0.75"></span> Maps</a> ` +
+        (selected_data.gov_url != "" ? `<a href="${selected_data.gov_url}" target="_blank" class="uk-button uk-button-primary uk-width-auto@s uk-width-1-1"><span uk-icon="home" ratio="0.75"></span> Gov site</a>` : ``) +
         (selected_data.travel_url != ""
           ? ` 
-        <a href="${selected_data.travel_url}" target="_blank" class="uk-button uk-button-secondary"><span uk-icon="world" ratio="0.75"></span> Travel site</a> `
+        <a href="${selected_data.travel_url}" target="_blank" class="uk-button uk-button-secondary uk-width-auto@s uk-width-1-1"><span uk-icon="world" ratio="0.75"></span> Travel site</a> `
           : ``) +
         `</p>
       <p>${selected_data.content}</p>
