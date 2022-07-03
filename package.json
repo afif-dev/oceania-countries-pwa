@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node app.js"
+    "dev": "node app.js",
+    "build": ""
   },
   "author": "afif-dev - https://afif-dev.github.io/",
   "license": "MIT",
